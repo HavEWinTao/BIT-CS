@@ -1,0 +1,279 @@
+{
+  "format": 2,
+  "version": "5.3.1",
+  "globals": "b67ec173f756f882499dca7bca57a44a",
+  "files": {
+    "_Code_Python_math-item-generator_check_py": {
+      "hash": "10d2ac72f8b6eb03d03120fe7f709cdc",
+      "index": {
+        "nums": [
+          1,
+          12,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_check_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\check.py"
+      }
+    },
+    "_Code_Python_math-item-generator_get_number_py": {
+      "hash": "6368fd7303288aea0613f8eb0441b581",
+      "index": {
+        "nums": [
+          1,
+          22,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_get_number_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\get_number.py"
+      }
+    },
+    "_Code_Python_math-item-generator_get_operator_py": {
+      "hash": "8c12ab7a56a63d1f985311b663a45021",
+      "index": {
+        "nums": [
+          1,
+          23,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_get_operator_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\get_operator.py"
+      }
+    },
+    "_Code_Python_math-item-generator_get_problem_py": {
+      "hash": "44aeb5c8db32204c1f320af904777ebc",
+      "index": {
+        "nums": [
+          1,
+          52,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_get_problem_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\get_problem.py"
+      }
+    },
+    "_Code_Python_math-item-generator_solve_py": {
+      "hash": "c15f3b8b44518dd6f49d1264811c9b45",
+      "index": {
+        "nums": [
+          1,
+          45,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_solve_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\solve.py"
+      }
+    },
+    "_Code_Python_math-item-generator_test_py": {
+      "hash": "0b00ffc1f542f177cdf6d2d75d221240",
+      "index": {
+        "nums": [
+          1,
+          22,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_test_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\test.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_runner_tools_py": {
+      "hash": "50d7479206ab4e15caa868ae7e05af59",
+      "index": {
+        "nums": [
+          1,
+          173,
+          0,
+          53,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_runner_tools_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\_jb_runner_tools.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_serial_tree_manager_py": {
+      "hash": "50e32b6093ecf60b03ca2f7ec4a32fe7",
+      "index": {
+        "nums": [
+          1,
+          56,
+          0,
+          12,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_serial_tree_manager_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\_jb_serial_tree_manager.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_unittest_runner_py": {
+      "hash": "68b537879bbc59a3388751ec04b7b24e",
+      "index": {
+        "nums": [
+          1,
+          24,
+          0,
+          8,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_unittest_runner_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\_jb_unittest_runner.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_utils_py": {
+      "hash": "d817b00f15c91a6591a06aa7980df9fb",
+      "index": {
+        "nums": [
+          1,
+          71,
+          0,
+          34,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm__jb_utils_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\_jb_utils.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity___init___py": {
+      "hash": "136f3f55e3aaab8e4f0b94815d36b65f",
+      "index": {
+        "nums": [
+          1,
+          6,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity___init___py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\teamcity\\__init__.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_common_py": {
+      "hash": "da6d286f749f136fea408d08d7b20b2a",
+      "index": {
+        "nums": [
+          1,
+          90,
+          0,
+          35,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_common_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\teamcity\\common.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_diff_tools_py": {
+      "hash": "286c530aee99a81a9eb5deaa940e5945",
+      "index": {
+        "nums": [
+          1,
+          57,
+          0,
+          32,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_diff_tools_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\teamcity\\diff_tools.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_messages_py": {
+      "hash": "b08378470499114c893ecfecbf34e11e",
+      "index": {
+        "nums": [
+          1,
+          153,
+          0,
+          62,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_messages_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\teamcity\\messages.py"
+      }
+    },
+    "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_unittestpy_py": {
+      "hash": "5b265ec1bdadcd6591eabd75be84de7f",
+      "index": {
+        "nums": [
+          1,
+          217,
+          0,
+          123,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Software_PyCharm 2020_3_plugins_python_helpers_pycharm_teamcity_unittestpy_py.html",
+        "relative_filename": "D:\\Software\\PyCharm 2020.3\\plugins\\python\\helpers\\pycharm\\teamcity\\unittestpy.py"
+      }
+    },
+    "_Code_Python_math-item-generator_main_py": {
+      "hash": "f84de45b968b898074b36fbbca33cc4e",
+      "index": {
+        "nums": [
+          1,
+          46,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_main_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\main.py"
+      }
+    },
+    "_Code_Python_math-item-generator_quiz_py": {
+      "hash": "455a149491f72985b11e0316dc5ccd9e",
+      "index": {
+        "nums": [
+          1,
+          28,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html_filename": "_Code_Python_math-item-generator_quiz_py.html",
+        "relative_filename": "D:\\Code\\Python\\math-item-generator\\quiz.py"
+      }
+    }
+  }
+}
