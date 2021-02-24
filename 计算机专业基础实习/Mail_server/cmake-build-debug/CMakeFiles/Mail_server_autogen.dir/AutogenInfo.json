@@ -1,0 +1,115 @@
+{
+	"BUILD_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen",
+	"CMAKE_BINARY_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server",
+	"CMAKE_EXECUTABLE" : "D:/Software/CLion 2020.2.3/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/include/ui_serverwidget.h",
+			"MU",
+			"B57KWH3IJI/moc_ui_serverwidget.cpp"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/moc_predefs.h",
+			"MU",
+			"SATEDGJ2E4/moc_moc_predefs.cpp"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/serverwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_serverwidget.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_SQL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug",
+		"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server",
+		"D:/Software/Qt/5.15.1/mingw81_64/include",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtWidgets",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtGui",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtANGLE",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtCore",
+		"D:/Software/Qt/5.15.1/mingw81_64/mkspecs/win32-g++",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtNetwork",
+		"D:/Software/Qt/5.15.1/mingw81_64/include/QtSql",
+		"D:/Software/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"D:/Software/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/Software/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"D:/Software/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"D:/Software/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"D:/Software/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/Software/Qt/Tools/mingw810_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/Software/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/Mail_server_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Software/Qt/5.15.1/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/Software/Qt/5.15.1/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/Mail_server_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+			"MU"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/EWIEGA46WW/moc_serverwidget.cpp",
+			"MU"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/mocs_compilation.cpp",
+			"MU"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/main.cpp",
+			"MU"
+		],
+		[
+			"E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/serverwidget.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

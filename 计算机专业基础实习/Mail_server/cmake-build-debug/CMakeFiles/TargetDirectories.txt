@@ -1,0 +1,4 @@
+E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/Mail_server.dir
+E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/Mail_server_autogen.dir

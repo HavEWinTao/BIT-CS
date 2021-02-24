@@ -1,0 +1,4 @@
+"D:\Software\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\NutStore\Courseware\3.1\FlowerMail\01.Source\Mail_server
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug

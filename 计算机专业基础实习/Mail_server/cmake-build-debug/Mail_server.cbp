@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Mail_server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Software\;CMake Files\Software\Qt\;CMake Files\Software\Qt\5.15.1\;CMake Files\Software\Qt\5.15.1\mingw81_64\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Network\;CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mail_server">
+				<Option output="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/include"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtWidgets"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtGui"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtANGLE"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtCore"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtNetwork"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtSql"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mail_server"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mail_server/fast">
+				<Option output="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server"/>
+					<Add directory="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/include"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtWidgets"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtGui"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtANGLE"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtCore"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtNetwork"/>
+					<Add directory="D:/Software/Qt/5.15.1/mingw81_64/include/QtSql"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Software/Qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mail_server/fast"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mail_server_autogen">
+				<Option working_dir="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mail_server_autogen"/>
+					<CompileFile command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software/Qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/EWIEGA46WW/moc_serverwidget.cpp">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/include/ui_serverwidget.h">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/moc_predefs.h">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/cmake-build-debug/Mail_server_autogen/mocs_compilation.cpp">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/main.cpp">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/serverwidget.cpp">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/serverwidget.h">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/serverwidget.ui">
+			<Option target="Mail_server"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/NutStore/Courseware/3.1/FlowerMail/01.Source/Mail_server/Software/Qt/5.15.1/mingw81_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\Software\Qt\5.15.1\mingw81_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

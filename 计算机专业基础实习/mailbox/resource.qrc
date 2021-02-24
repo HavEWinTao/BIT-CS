@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>resource/add.png</file>
+        <file>resource/already.png</file>
+        <file>resource/bold.png</file>
+        <file>resource/close.png</file>
+        <file>resource/color.png</file>
+        <file>resource/download.png</file>
+        <file>resource/draft.png</file>
+        <file>resource/e-mail.png</file>
+        <file>resource/font.png</file>
+        <file>resource/get.png</file>
+        <file>resource/italic (1).png</file>
+        <file>resource/login (1).png</file>
+        <file>resource/login.png</file>
+        <file>resource/password.png</file>
+        <file>resource/recieve.png</file>
+        <file>resource/regist.png</file>
+        <file>resource/register.png</file>
+        <file>resource/reply.png</file>
+        <file>resource/rubbish.png</file>
+        <file>resource/search.png</file>
+        <file>resource/underline.png</file>
+        <file>resource/warn.png</file>
+        <file>resource/welcome.png</file>
+        <file>resource/confirm.png</file>
+        <file>resource/logo_mail.png</file>
+        <file>resource/outbox.png</file>
+    </qresource>
+</RCC>
