@@ -1,0 +1,7 @@
+﻿  Assembling src\game.asm...
+src\game.asm(1): error A2008: syntax error : .
+src\game.asm(2): error A2008: syntax error : .
+src\game.asm(12): error A2008: syntax error : first
+src\game.asm(13): error A2008: syntax error : invoke
+src\game.asm(25): fatal error A1010: unmatched block nesting : rand
+D:\Software\Virtual Studio\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\game.obj" /I "D:\masm32\include" /W3 /errorReport:prompt  /Tasrc\game.asm”已退出，返回代码为 1。

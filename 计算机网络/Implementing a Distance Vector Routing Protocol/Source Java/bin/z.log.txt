@@ -1,0 +1,352 @@
+2021-05-31 15:21:48:441  ## Sent.Source Node= z; Sequence Number = 0
+    destNode = u; distance = 20.0; neighbor = u
+    destNode = v; distance = 20.0; neighbor = v
+    destNode = w; distance = 5.0; neighbor = w
+    destNode = x; distance = 20.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:21:48:764  ## Received.Source Node= w; Sequence Number = 1
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:21:48:770  ## Sent.Source Node= z; Sequence Number = 2
+    destNode = u; distance = 8.0; neighbor = w
+    destNode = v; distance = 8.0; neighbor = w
+    destNode = w; distance = 5.0; neighbor = w
+    destNode = x; distance = 7.0; neighbor = w
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:21:50:723  ## Received.Source Node= x; Sequence Number = 3
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:21:51:730  ## Received.Source Node= v; Sequence Number = 4
+    destNode = u; distance = 2.0; neighbor = u
+    destNode = v; distance = 0.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = x
+    destNode = y; distance = 3.0; neighbor = x
+    destNode = z; distance = 5.0; neighbor = x
+
+2021-05-31 15:21:52:446  ## Received.Source Node= x; Sequence Number = 5
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:21:52:865  ## Received.Source Node= y; Sequence Number = 6
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:21:52:875  ## Sent.Source Node= z; Sequence Number = 7
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:21:52:879  ## Received.Source Node= u; Sequence Number = 8
+    destNode = u; distance = 0.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = x
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = x
+    destNode = z; distance = 4.0; neighbor = x
+
+2021-05-31 15:21:53:403  ## Sent.Source Node= z; Sequence Number = 9
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:21:53:778  ## Received.Source Node= w; Sequence Number = 10
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:21:55:722  ## Received.Source Node= x; Sequence Number = 11
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:21:56:646  ## Received.Source Node= v; Sequence Number = 12
+    destNode = u; distance = 2.0; neighbor = u
+    destNode = v; distance = 0.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = x
+    destNode = y; distance = 3.0; neighbor = x
+    destNode = z; distance = 5.0; neighbor = x
+
+2021-05-31 15:21:57:447  ## Received.Source Node= x; Sequence Number = 13
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:21:57:802  ## Received.Source Node= u; Sequence Number = 14
+    destNode = u; distance = 0.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = x
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = x
+    destNode = z; distance = 4.0; neighbor = x
+
+2021-05-31 15:21:57:865  ## Received.Source Node= y; Sequence Number = 15
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:21:58:403  ## Sent.Source Node= z; Sequence Number = 16
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:21:58:797  ## Received.Source Node= w; Sequence Number = 17
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:00:721  ## Received.Source Node= x; Sequence Number = 18
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:01:662  ## Received.Source Node= v; Sequence Number = 19
+    destNode = u; distance = 2.0; neighbor = u
+    destNode = v; distance = 0.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = x
+    destNode = y; distance = 3.0; neighbor = x
+    destNode = z; distance = 5.0; neighbor = x
+
+2021-05-31 15:22:02:448  ## Received.Source Node= x; Sequence Number = 20
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:22:02:791  ## Received.Source Node= u; Sequence Number = 21
+    destNode = u; distance = 0.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = x
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = x
+    destNode = z; distance = 4.0; neighbor = x
+
+2021-05-31 15:22:02:865  ## Received.Source Node= y; Sequence Number = 22
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:22:03:404  ## Sent.Source Node= z; Sequence Number = 23
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:22:03:815  ## Received.Source Node= w; Sequence Number = 24
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:05:723  ## Received.Source Node= x; Sequence Number = 25
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:06:783  ## Received.Source Node= v; Sequence Number = 26
+    destNode = u; distance = 2.0; neighbor = u
+    destNode = v; distance = 0.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = x
+    destNode = y; distance = 3.0; neighbor = x
+    destNode = z; distance = 5.0; neighbor = x
+
+2021-05-31 15:22:07:448  ## Received.Source Node= x; Sequence Number = 27
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:22:07:867  ## Received.Source Node= y; Sequence Number = 28
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:22:07:869  ## Received.Source Node= u; Sequence Number = 29
+    destNode = u; distance = 0.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = x
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = x
+    destNode = z; distance = 4.0; neighbor = x
+
+2021-05-31 15:22:08:404  ## Sent.Source Node= z; Sequence Number = 30
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:22:08:933  ## Received.Source Node= w; Sequence Number = 31
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:10:723  ## Received.Source Node= x; Sequence Number = 32
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:11:706  ## Received.Source Node= v; Sequence Number = 33
+    destNode = u; distance = 2.0; neighbor = u
+    destNode = v; distance = 0.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = x
+    destNode = y; distance = 3.0; neighbor = x
+    destNode = z; distance = 5.0; neighbor = x
+
+2021-05-31 15:22:12:449  ## Received.Source Node= x; Sequence Number = 34
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:22:12:825  ## Received.Source Node= u; Sequence Number = 35
+    destNode = u; distance = 0.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = x
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 2.0; neighbor = x
+    destNode = z; distance = 4.0; neighbor = x
+
+2021-05-31 15:22:12:867  ## Received.Source Node= y; Sequence Number = 36
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:22:13:405  ## Sent.Source Node= z; Sequence Number = 37
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:22:13:848  ## Received.Source Node= w; Sequence Number = 38
+    destNode = u; distance = 3.0; neighbor = y
+    destNode = v; distance = 3.0; neighbor = v
+    destNode = w; distance = 0.0; neighbor = w
+    destNode = x; distance = 2.0; neighbor = y
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:15:723  ## Received.Source Node= x; Sequence Number = 39
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+
+2021-05-31 15:22:17:447  ## Received.Source Node= x; Sequence Number = 40
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 3.0; neighbor = w
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 20.0; neighbor = z
+
+2021-05-31 15:22:17:867  ## Received.Source Node= y; Sequence Number = 41
+    destNode = u; distance = 2.0; neighbor = x
+    destNode = v; distance = 3.0; neighbor = x
+    destNode = w; distance = 1.0; neighbor = w
+    destNode = x; distance = 1.0; neighbor = x
+    destNode = y; distance = 0.0; neighbor = y
+    destNode = z; distance = 2.0; neighbor = z
+
+2021-05-31 15:22:18:406  ## Sent.Source Node= z; Sequence Number = 42
+    destNode = u; distance = 4.0; neighbor = y
+    destNode = v; distance = 5.0; neighbor = y
+    destNode = w; distance = 3.0; neighbor = y
+    destNode = x; distance = 3.0; neighbor = y
+    destNode = y; distance = 2.0; neighbor = y
+    destNode = z; distance = 0.0; neighbor = z
+
+2021-05-31 15:22:20:725  ## Received.Source Node= x; Sequence Number = 43
+    destNode = u; distance = 1.0; neighbor = u
+    destNode = v; distance = 2.0; neighbor = v
+    destNode = w; distance = 2.0; neighbor = y
+    destNode = x; distance = 0.0; neighbor = x
+    destNode = y; distance = 1.0; neighbor = y
+    destNode = z; distance = 3.0; neighbor = y
+

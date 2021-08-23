@@ -1,0 +1,4 @@
+Frequency:5000
+Unreachable:20.0
+MaxValidTime:15000
+Node_number:6
